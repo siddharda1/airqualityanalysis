@@ -1,10 +1,10 @@
-# 🌫️ Air Quality Analysis
+#  Air Quality Analysis
 
 This project focuses on analyzing air quality data to uncover patterns, relationships, and anomalies in various air pollutant levels. It includes thorough data cleaning, exploratory data analysis (EDA), and visualizations to better understand the environmental conditions affecting air quality.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - `air_quality_analysis.ipynb`: Jupyter Notebook containing all data analysis, cleaning, visualizations, and insights.
 - `air_quality_dataset.csv`: The dataset used for this project (not included if too large).
@@ -12,7 +12,7 @@ This project focuses on analyzing air quality data to uncover patterns, relation
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 The dataset contains air quality measurements such as:
 - PM2.5
@@ -27,19 +27,19 @@ Each record includes a timestamp and location for contextual analysis.
 
 ---
 
-## ✅ What We Did
+##  What We Did
 
-- ✅ **Data Cleaning**  
+-  **Data Cleaning**  
   - Removed missing/null values  
   - Handled duplicate entries  
   - Formatted dates and standardized column names
 
-- 📈 **Exploratory Data Analysis (EDA)**  
+-  **Exploratory Data Analysis (EDA)**  
   - Summary statistics and distribution of key pollutants  
   - Correlation matrix to detect relationships  
   - Outlier detection using statistical and visual methods
 
-- 📉 **Visualizations**  
+-  **Visualizations**  
   - Line plots of pollutant trends over time  
   - Histograms and boxplots to analyze distributions  
   - Heatmaps to show correlations  
@@ -47,7 +47,7 @@ Each record includes a timestamp and location for contextual analysis.
 
 ---
 
-## 🧠 Insights
+##  Insights
 
 - Identified strong correlations between certain pollutants (e.g., PM2.5 and AQI)
 - Spotted seasonal spikes in pollution levels
@@ -55,7 +55,7 @@ Each record includes a timestamp and location for contextual analysis.
 
 ---
 
-## 📌 Requirements
+##  Requirements
 
 To run the notebook, install the following:
 
